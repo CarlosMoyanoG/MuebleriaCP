@@ -1,4 +1,4 @@
-# 🪑 MueblesCP
+# 🪑 MuebleriaCP
 
 Aplicación de escritorio desarrollada en Java (NetBeans) como parte del **Proyecto final del 4to ciclo** de la carrera universitaria.  
 Fue realizada en colaboración por **Carlos Moyano Guevara** y su compañero de universidad **Pedro González**.
